@@ -1,0 +1,28 @@
+C:\Users\DELL\Documents\C# .net\projetoteste\bin\Debug\net8.0\projetoteste.exe
+C:\Users\DELL\Documents\C# .net\projetoteste\bin\Debug\net8.0\projetoteste.deps.json
+C:\Users\DELL\Documents\C# .net\projetoteste\bin\Debug\net8.0\projetoteste.runtimeconfig.json
+C:\Users\DELL\Documents\C# .net\projetoteste\bin\Debug\net8.0\projetoteste.dll
+C:\Users\DELL\Documents\C# .net\projetoteste\bin\Debug\net8.0\projetoteste.pdb
+C:\Users\DELL\Documents\C# .net\projetoteste\obj\Debug\net8.0\projetoteste.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Documents\C# .net\projetoteste\obj\Debug\net8.0\projetoteste.AssemblyInfoInputs.cache
+C:\Users\DELL\Documents\C# .net\projetoteste\obj\Debug\net8.0\projetoteste.AssemblyInfo.cs
+C:\Users\DELL\Documents\C# .net\projetoteste\obj\Debug\net8.0\projetoteste.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Documents\C# .net\projetoteste\obj\Debug\net8.0\projetoteste.dll
+C:\Users\DELL\Documents\C# .net\projetoteste\obj\Debug\net8.0\refint\projetoteste.dll
+C:\Users\DELL\Documents\C# .net\projetoteste\obj\Debug\net8.0\projetoteste.pdb
+C:\Users\DELL\Documents\C# .net\projetoteste\obj\Debug\net8.0\projetoteste.genruntimeconfig.cache
+C:\Users\DELL\Documents\C# .net\projetoteste\obj\Debug\net8.0\ref\projetoteste.dll
+C:\Users\DELL\Documents\C# .net\projetoteste - BACKUP\bin\Debug\net8.0\projetoteste.exe
+C:\Users\DELL\Documents\C# .net\projetoteste - BACKUP\bin\Debug\net8.0\projetoteste.deps.json
+C:\Users\DELL\Documents\C# .net\projetoteste - BACKUP\bin\Debug\net8.0\projetoteste.runtimeconfig.json
+C:\Users\DELL\Documents\C# .net\projetoteste - BACKUP\bin\Debug\net8.0\projetoteste.dll
+C:\Users\DELL\Documents\C# .net\projetoteste - BACKUP\bin\Debug\net8.0\projetoteste.pdb
+C:\Users\DELL\Documents\C# .net\projetoteste - BACKUP\obj\Debug\net8.0\projetoteste.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Documents\C# .net\projetoteste - BACKUP\obj\Debug\net8.0\projetoteste.AssemblyInfoInputs.cache
+C:\Users\DELL\Documents\C# .net\projetoteste - BACKUP\obj\Debug\net8.0\projetoteste.AssemblyInfo.cs
+C:\Users\DELL\Documents\C# .net\projetoteste - BACKUP\obj\Debug\net8.0\projetoteste.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Documents\C# .net\projetoteste - BACKUP\obj\Debug\net8.0\projetoteste.dll
+C:\Users\DELL\Documents\C# .net\projetoteste - BACKUP\obj\Debug\net8.0\refint\projetoteste.dll
+C:\Users\DELL\Documents\C# .net\projetoteste - BACKUP\obj\Debug\net8.0\projetoteste.pdb
+C:\Users\DELL\Documents\C# .net\projetoteste - BACKUP\obj\Debug\net8.0\projetoteste.genruntimeconfig.cache
+C:\Users\DELL\Documents\C# .net\projetoteste - BACKUP\obj\Debug\net8.0\ref\projetoteste.dll
